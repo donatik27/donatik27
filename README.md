@@ -9,4 +9,3 @@ I bring a solid technical background and a drive to turn complex blockchain idea
 ///
 
    
-[![](https://visitcount.itsvg.in/api?id=cypherpepe&icon=0&color=0)](https://github.com/donatik27)
