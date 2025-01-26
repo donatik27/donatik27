@@ -30,16 +30,13 @@ I bring a solid technical background and a drive to turn complex blockchain idea
 ## 🌐 Connect with me
 <p>
   <a href="https://twitter.com/noisy0y1">
-    <img src="https://img.shields.io/badge/@mdqst-000000?style=flat&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/@noisy0y1-000000?style=flat&logo=x&logoColor=white"/>
   </a>
   <a href="https://warpcast.com/donatik27">
-    <img src="https://img.shields.io/badge/@mdqst-5A3E85?style=flat&logo=farcaster&logoColor=white"/>
+    <img src="https://img.shields.io/badge/@donatik27-5A3E85?style=flat&logo=farcaster&logoColor=white"/>
   </a>
   <a href="https://t.me/cryptozool0g">
     <img src="https://img.shields.io/badge/telegram-229ED9?style=flat&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/@mediquest-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
