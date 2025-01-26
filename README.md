@@ -5,7 +5,7 @@
 # 👨‍💻 Noisy | 💻 Degen Web3 DEV
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Crypto+Researcher;Smart+Contract+Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Smart+Contract+Developer;Web3+Developer;Blockchain+Engineer;DeFi+Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
 ## 🌟 About Me
@@ -28,15 +28,18 @@ I bring a solid technical background and a drive to turn complex blockchain idea
 </p>
 
 ## 🌐 Connect with me
-<p align="center">
-  <a href="https://twitter.com/noisy0y1" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+<p>
+  <a href="https://twitter.com/noisy0y1">
+    <img src="https://img.shields.io/badge/@mdqst-000000?style=flat&logo=x&logoColor=white"/>
   </a>
-  <a href="https://t.me/cryptozool0g" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <a href="https://warpcast.com/donatik27">
+    <img src="https://img.shields.io/badge/@mdqst-5A3E85?style=flat&logo=farcaster&logoColor=white"/>
   </a>
-  <a href="https://warpcast.com/donatik27" target="_blank">
-    <img src="https://img.shields.io/badge/Farcaster-%239333EA.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDNDMTYuOTcwNiAzIDIxIDcuMDI5NDQgMjEgMTJDMjEgMTYuOTcwNiAxNi45NzA2IDIxIDEyIDIxQzcuMDI5NDQgMjEgMyAxNi45NzA2IDMgMTJDMyA3LjAyOTQ0IDcuMDI5NDQgMyAxMiAzWk0xMiA1QzguMTM0MDEgNSA1IDguMTM0MDEgNSAxMkM1IDE1Ljg2NiA4LjEzNDAxIDE5IDEyIDE5QzE1Ljg2NiAxOSAxOSAxNS44NjYgMTkgMTJDMTkgOC4xMzQwMSAxNS44NjYgNSAxMiA1Wk0xMiA4QzE0LjIwOTEgOCAxNiA5Ljc5MDg2IDE2IDEyQzE2IDE0LjIwOTEgMTQuMjA5MSAxNiAxMiAxNkM5Ljc5MDg2IDE2IDggMTQuMjA5MSA4IDEyQzggOS43OTA4NiA5Ljc5MDg2IDggMTIgOFoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=&logoColor=white"/>
+  <a href="https://t.me/cryptozool0g">
+    <img src="https://img.shields.io/badge/telegram-229ED9?style=flat&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/@mediquest-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
